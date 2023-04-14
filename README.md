@@ -1,5 +1,9 @@
 # Build Food Delivery Web API With Python Playlist
 
+## ER Diagram
+
+![er-diagram-for-food-delivery-system](docs/er-diagram-for-food-delivery-system.png)
+
 ## Backend
 
 This project uses a Django command for various tasks. Some of the available tasks
